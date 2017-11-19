@@ -12,3 +12,4 @@ Based on these built in fatigue factors on defense, we hypothesize that the amou
 As a response, a categorical score variable was assigned depending on whether the offense punted the ball (0 points), kicked a field goal (3 points), scored a touchdown (6 points), lost an interception or fumble (-6 points), suffered a safety (-2 points). Any other outcome was also assigned an outcome of zero points.  
 
 
+Read the entire article here: https://beyondtheaverage.wordpress.com/2017/11/19/how-fatigue-impacts-nfl-defenses/
